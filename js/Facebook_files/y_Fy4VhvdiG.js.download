@@ -1,0 +1,4 @@
+if (self.CavalryLogger) { CavalryLogger.start_js_script(document.currentScript); }
+
+__d("CometPageAdminCreateWhatsAppAdsInterstitialUpsellQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="4705303029535766"}),null);
+__d("PagesCometAdminWhatsAppPostingUpsellDialogQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="4900548496655718"}),null);

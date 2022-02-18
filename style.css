@@ -1,0 +1,26 @@
+body {
+    min-height: 2000px;
+}
+
+.jumbotron {
+    background-image: url('./img/image-background.jpg');
+    background-attachment: fixed;
+    background-position: 0 -100px;
+}
+
+.jumbotron h1, .jumbotron p {
+    text-shadow: 1px 1px 10px rgba(0,0,0,0.5);
+}
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #e2edfb; 
+}
+
+#galery {
+    background-color: #e2edfb;
+}
+
+section {
+    padding-top: 5rem;
+}
